@@ -9,7 +9,7 @@ namespace MiwDrzewo
             var root = new Node
             {
                 Content = "Yolo",
-                Question = "Czy noob"
+                Question = "Czy noob?"
             };
 
             var czyNoobY = new Node

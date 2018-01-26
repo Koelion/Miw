@@ -74,7 +74,7 @@ namespace MiwDrzewo
             var result = rule;
             if (rule.Contains('?'))
             {
-                result = result.Remove('?');
+                result = result.Replace("?", "");
             }
             if (rule.Contains(' '))
             {
