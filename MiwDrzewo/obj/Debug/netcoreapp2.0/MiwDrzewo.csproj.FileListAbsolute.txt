@@ -1,0 +1,10 @@
+/home/koelion/RiderProjects/MiwDrzewo/MiwDrzewo/bin/Debug/netcoreapp2.0/MiwDrzewo.deps.json
+/home/koelion/RiderProjects/MiwDrzewo/MiwDrzewo/bin/Debug/netcoreapp2.0/MiwDrzewo.runtimeconfig.json
+/home/koelion/RiderProjects/MiwDrzewo/MiwDrzewo/bin/Debug/netcoreapp2.0/MiwDrzewo.runtimeconfig.dev.json
+/home/koelion/RiderProjects/MiwDrzewo/MiwDrzewo/bin/Debug/netcoreapp2.0/MiwDrzewo.dll
+/home/koelion/RiderProjects/MiwDrzewo/MiwDrzewo/bin/Debug/netcoreapp2.0/MiwDrzewo.pdb
+/home/koelion/RiderProjects/MiwDrzewo/MiwDrzewo/obj/Debug/netcoreapp2.0/MiwDrzewo.csproj.CoreCompileInputs.cache
+/home/koelion/RiderProjects/MiwDrzewo/MiwDrzewo/obj/Debug/netcoreapp2.0/MiwDrzewo.AssemblyInfoInputs.cache
+/home/koelion/RiderProjects/MiwDrzewo/MiwDrzewo/obj/Debug/netcoreapp2.0/MiwDrzewo.AssemblyInfo.cs
+/home/koelion/RiderProjects/MiwDrzewo/MiwDrzewo/obj/Debug/netcoreapp2.0/MiwDrzewo.dll
+/home/koelion/RiderProjects/MiwDrzewo/MiwDrzewo/obj/Debug/netcoreapp2.0/MiwDrzewo.pdb
